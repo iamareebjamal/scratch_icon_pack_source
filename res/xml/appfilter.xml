@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <iconback img1="iconback" />
+	<iconmask img1="iconmask" />
+    <iconupon img1="iconupon" />
+    <scale factor=".75" />
+
+    <!-- Browser -->
+	<item component="ComponentInfo{com.android.browser/com.android.browser.BrowserActivity}" drawable="com_android_browser_browseractivity" />
+    <item component="ComponentInfo{com.google.android.browser/com.android.browser.BrowserActivity}" drawable="com_android_browser_browseractivity" />
+</resources>
