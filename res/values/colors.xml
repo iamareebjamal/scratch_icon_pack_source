@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="background_secondary">#00000000</color>
+    <color name="candidate_recommended">#ff33b5e5</color>
+    <color name="dim_foreground_dark">#ffffffff</color>
+    <color name="dim_foreground_dark_disabled">#ff999999</color>
+    <color name="dim_foreground_dark_inverse">#ffffffff</color>
+    <color name="dim_foreground_dark_inverse_disabled">#80323232</color>
+    <color name="dim_foreground_light">#ff000000</color>
+    <color name="dim_foreground_light_disabled">#80323232</color>
+    <color name="dim_foreground_light_inverse">#ffe1b781</color>
+    <color name="dim_foreground_light_inverse_disabled">#80e1b781</color>
+    <color name="bright_foreground_dark">#ffffffff</color>
+    <color name="bright_foreground_dark_disabled">#80ffffff</color>
+    <color name="bright_foreground_dark_inverse">#ff000000</color>
+    <color name="hint_foreground_dark">#ff808080</color>
+    <color name="bright_foreground_light">#ff333333</color>
+    <color name="bright_foreground_light_inverse">#ffffffff</color>
+    <color name="bright_foreground_light_disabled">#80000000</color>
+    <color name="hint_foreground_light">#ff808080</color>
+    <color name="transparent">#00000000</color>
+    <color name="black">#ff000000</color>
+    <color name="black2">#ffffffff</color>
+    <color name="white">#ffffffff</color>
+    <color name="white_disabled">#ff999999</color>
+    <color name="keyboard_green">#ff33b5e5</color>
+    <color name="key_text_color">#ffffffff</color>
+    <color name="dragndrop_background">#ff282828</color>
+    <color name="expanding_child_background">#00000000</color>
+    <color name="message_list_item_background_unread">#88000000</color>
+    <color name="message_list_item_background_read">#00000000</color>
+</resources>
