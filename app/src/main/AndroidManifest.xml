@@ -1,16 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="areeb.scratch.iconpack"
-    android:installLocation="auto"
-    android:versionCode="1"
-    android:versionName="1.0" >
-
-    <uses-sdk android:minSdkVersion="1"
-        android:targetSdkVersion="19" />
+    android:installLocation="auto" >
 
     <application
-        android:icon="@drawable/icon"
+        android:icon="@mipmap/ic_launcher"
         android:label="@string/theme_title" >
+        
         <activity
             android:name="areeb.scratch.iconpack.MainActivity"
             android:label="@string/theme_title" >
@@ -57,14 +53,16 @@
                 <category android:name="android.intent.category.DEFAULT" />
             </intent-filter>
         </activity>
+
         <activity
             android:name="areeb.scratch.iconpack.Icons"
             android:label="@string/title_activity_icons" >
             <intent-filter>
                 <action android:name="org.adw.launcher.icons.ACTION_PICK_ICON" />
                 <category android:name="android.intent.category.DEFAULT" />
-            </intent-filter>  
+            </intent-filter>
         </activity>
+
     </application>
 
 </manifest>
