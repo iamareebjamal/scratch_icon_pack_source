@@ -1,4 +1,8 @@
-scratch_icon_pack_source
-========================
+## Scratch Icon Pack
+> A minimal icon pack wrapper for beginners
 
-Here is the source of Apex, Nova, Holo, ADW, Go Launcher blank icon pack template
+#### Deprecated
+- Development has stopped long ago
+
+### Author
+Areeb Jamal ([@iamareebjamal](https://github.com/iamareebjamal))
